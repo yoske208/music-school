@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\PractisService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B58337DA-03E6-4FB5-A308-6704A1D37536}|PractisService\\MusicSchool.csproj|c:\\users\\user1\\source\\repos\\practisservice\\practisservice\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58337DA-03E6-4FB5-A308-6704A1D37536}|PractisService\\MusicSchool.csproj|solutionrelative:practisservice\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58337DA-03E6-4FB5-A308-6704A1D37536}|PractisService\\MusicSchool.csproj|c:\\users\\user1\\source\\repos\\practisservice\\practisservice\\configuration\\musicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58337DA-03E6-4FB5-A308-6704A1D37536}|PractisService\\MusicSchool.csproj|solutionrelative:practisservice\\configuration\\musicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58337DA-03E6-4FB5-A308-6704A1D37536}|PractisService\\fpxml.csproj|c:\\users\\user1\\source\\repos\\practisservice\\practisservice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58337DA-03E6-4FB5-A308-6704A1D37536}|PractisService\\fpxml.csproj|solutionrelative:practisservice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\PractisService\\PractisService\\Configuration\\MusicConfiguration.cs",
+              "RelativeDocumentMoniker": "PractisService\\Configuration\\MusicConfiguration.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\PractisService\\PractisService\\Configuration\\MusicConfiguration.cs",
+              "RelativeToolTip": "PractisService\\Configuration\\MusicConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:16:03.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\PractisService\\PractisService\\Form1.cs",
+              "RelativeDocumentMoniker": "PractisService\\Form1.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\PractisService\\PractisService\\Form1.cs",
+              "RelativeToolTip": "PractisService\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:45:33.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicSchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\PractisService\\PractisService\\Service\\MusicSchoolService.cs",
+              "RelativeDocumentMoniker": "PractisService\\Service\\MusicSchoolService.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\PractisService\\PractisService\\Service\\MusicSchoolService.cs",
+              "RelativeToolTip": "PractisService\\Service\\MusicSchoolService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAewEcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:30:25.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
